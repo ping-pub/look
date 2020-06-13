@@ -19,6 +19,8 @@ We have two considerations: 1, Trust, In decentralize system, everything control
 Translations:
 * Franch: [@Catdotfish](https://github.com/Catdotfish)
 * Italian: [@Catdotfish](https://github.com/Catdotfish)
+* Spanlish [@wimel](https://github.com/wimel)
+* Russian [@seleniumforest](https://github.com/seleniumforest) 
 
 Developers: @liangping @dingyiming
 
